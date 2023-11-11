@@ -224,25 +224,6 @@
       targetConnections="id-7052edd3f2e8432bb54635163c8aed71 id-7d4035d2114445e3b7f4796f656b80a1 id-99eec1de1ce1486fb1f5a2efc67b8266">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ea34196bd95749338e86d09347b7bec2"
-        source="id-915d81af5ddb48669a1f00b0053087a1"
-        target="id-efbbb9581ae94d6fbec9f7c443981336">
-      <bendpoints
-          startX="-720"
-          startY="33"
-          endX="-108"
-          endY="381"/>
-      <bendpoints
-          startX="-720"
-          startY="-339"
-          endX="-108"
-          endY="9"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-a4ad8c58737e46c6b4ea3ccd54c2366d.xml#id-a4ad8c58737e46c6b4ea3ccd54c2366d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ee60ad8bb8514d4b97d1c06532466865"
         source="id-915d81af5ddb48669a1f00b0053087a1"
         target="id-522deadcbf6b4980b77bea6ddec500a3">
@@ -273,6 +254,25 @@
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-1cdd7509e52a4f5996e1733ff266e170.xml#id-1cdd7509e52a4f5996e1733ff266e170"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ea34196bd95749338e86d09347b7bec2"
+        source="id-915d81af5ddb48669a1f00b0053087a1"
+        target="id-efbbb9581ae94d6fbec9f7c443981336">
+      <bendpoints
+          startX="-720"
+          startY="33"
+          endX="-108"
+          endY="381"/>
+      <bendpoints
+          startX="-720"
+          startY="-339"
+          endX="-108"
+          endY="9"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-a4ad8c58737e46c6b4ea3ccd54c2366d.xml#id-a4ad8c58737e46c6b4ea3ccd54c2366d"/>
     </sourceConnections>
     <bounds
         x="792"
