@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelo Proceso"
+    name="Modelo Procesos"
     id="id-f96cfc02f3f74a30b517e46f7b46694e">
   <children
       xsi:type="archimate:DiagramModelGroup"
