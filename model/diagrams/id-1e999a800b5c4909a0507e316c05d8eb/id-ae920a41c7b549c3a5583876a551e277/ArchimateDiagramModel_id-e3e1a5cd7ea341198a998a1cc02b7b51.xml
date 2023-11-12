@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelo de Uso de Aplicaciones"
+    name="Modelo de Servicios de  Infraestructura"
     id="id-e3e1a5cd7ea341198a998a1cc02b7b51">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
